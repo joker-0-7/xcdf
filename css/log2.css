@@ -57,7 +57,7 @@ form{
     width: 50%;
     margin-left: auto;
     margin-right: auto;
-    height: 55vh;
+    min-height: 55vh;
     justify-content: space-around;
 }
 .add-no{
